@@ -1,0 +1,4 @@
+Create three expiriments against service fabric
+1. Rotate certificate
+2. Max CPU/Disk/Network
+3. Shutdown VMSS
